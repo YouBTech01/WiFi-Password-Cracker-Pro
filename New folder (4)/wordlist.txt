@@ -1,0 +1,15 @@
+password
+12345678
+qwerty
+admin123
+test123
+password123
+abc123
+letmein
+welcome
+default
+admin
+root123
+pass123
+wireless
+network

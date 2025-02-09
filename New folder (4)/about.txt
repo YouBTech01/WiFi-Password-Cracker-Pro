@@ -1,0 +1,13 @@
+About Us
+--------
+
+Welcome to our Password Checking Software – a secure and reliable solution created to help users enhance their digital safety. Developed by Brajendra ., this tool is designed to check password strength and offer instant feedback to improve your online security.
+
+Our goal is to promote better cybersecurity practices and help users protect their sensitive information with ease. The software is built using Python, ensuring a powerful yet user-friendly experience.
+
+For more updates and future projects, follow me on:
+
+🌐 Follow & Connect with Us:
+- Telegram Channel → https://t.me/You_B_Tech
+- YouTube → https://youtube.com/@You_B_Tech
+- Instagram → https://instagram.com/you_b_tech
